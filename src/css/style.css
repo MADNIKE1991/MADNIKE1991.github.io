@@ -26,8 +26,8 @@ text-transform: uppercase;
 }
 .main {
     width: 100%;
-    height: calc(100%-60px);
-    background: url(../img/boy.jpg) 90% 100%/auto 85% no-repeat,url(../img/bg.png) center cover no-repeat;}
+    height: calc (100% - 60px);
+   background: url(../img/boy.jpg) 90% 100%/auto 85% no-repeat, url(../img/bg.png) center/cover no-repeat;
 .title_container{
     float: left;
     margin: 432px 6px 6px 404px;
