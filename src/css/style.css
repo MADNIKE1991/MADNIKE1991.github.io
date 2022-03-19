@@ -26,9 +26,10 @@ text-transform: uppercase;
 }
 .main {
     width: 100%;
-    height: calc (100% - 60px);
-   background: url(../img/boy.jpg) 90% 100%/auto 85% no-repeat, url(../img/bg.png) center/cover no-repeat;
-.title_container{
+    height: calc(100% - 60px);
+    background: url(../img/boy.jpg) 90% 100%/auto 85% no-repeat, url(../img/bg.png) center/cover no-repeat;
+}
+.title_container {
     float: left;
     margin: 432px 6px 6px 404px;
     color: #2c384a;
@@ -51,6 +52,6 @@ text-transform: uppercase;
     color: #6d7682;
     font-size: 13px;
     padding: 0px 16px;
-    margin:  58px 14px 0px 14px;}
+    margin:  58px 14px 0px 14px;}}
     
     
